@@ -6,7 +6,7 @@ Hi there! I'm Aditya Arya, a passionate **Computer Science and Engineering** stu
 
 ### 🛠️ Skills & Tools
 - **Languages**: HTML, CSS
-- **Other Tools**:  VS Code, Linux,
+- **Other Tools**:  VS Code,
 - **Interests**: Machine Learning, Web Development, 
 ---
 
