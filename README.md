@@ -12,9 +12,7 @@ Hi there! I'm Aditya Arya, a passionate **Computer Science and Engineering** stu
 
 ### 🌱 What I'm Learning
 Currently diving deeper into:
-- Blockchain development
 - Advanced algorithms and data structures
-- AWS Cloud services
 
 ---
 
